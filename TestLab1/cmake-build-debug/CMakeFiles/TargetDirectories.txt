@@ -1,0 +1,3 @@
+/mnt/c/Users/xia/Documents/GitHub/ComplicationTest/TestLab1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/xia/Documents/GitHub/ComplicationTest/TestLab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/xia/Documents/GitHub/ComplicationTest/TestLab1/cmake-build-debug/CMakeFiles/TestLab1.dir
